@@ -20,8 +20,8 @@ Simple, no-frills low power (~1.5 W RMS) stage, intended for connection thru the
 - **Power supply:** 12 V, asymmetrical, max. 400 mA
 - **Gain:** 20x (+26 dB) with +46 dB option.
 - **Input sensitivity:** 180 mV
-- **Input impedance:** 10 kΩ; optional buffer for standalone operation.
-- **Output level and impedance:** 18 Vpp / 8 Ω
+- **Input impedance:** 10 kΩ; with optional buffer for standalone operation, ~108 kΩ.
+- **Output level and impedance:** 10 Vpp / 8 Ω
 - **Frequency response:** TBD
 - **Distortion:** TBD
 
